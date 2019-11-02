@@ -10,5 +10,9 @@ String custname;
   public int setCustID(int cust){
     this.custid=cust;
   }
+  
+  pubic void getCust(){
+  
+  }
 
 }
