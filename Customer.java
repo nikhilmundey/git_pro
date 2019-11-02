@@ -15,5 +15,10 @@ String custname;
   public int setCustID(int cust){
     this.custid=cust;
   }
+   
+  public void showCust(){
+  
+  
+  }
 
 }
