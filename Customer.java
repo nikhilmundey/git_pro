@@ -23,4 +23,8 @@ String custname;
   
   }
 
+
+public toString()
+{
+}
 }
