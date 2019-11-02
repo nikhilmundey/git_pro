@@ -7,8 +7,8 @@ String custname;
     return custid;
   }
   
-  public int setCustID{
-    return custid;
+  public int setCustID(int cust){
+    this.custid=cust;
   }
 
 }
