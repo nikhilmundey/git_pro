@@ -12,5 +12,8 @@ String custname;
     retutrn custname;
   }
   
+  public int setCustID(int cust){
+    this.custid=cust;
+  }
 
 }
