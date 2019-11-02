@@ -3,8 +3,13 @@ class Customer{
 int custid;
 String custname;
   
-  public int getCustID{
+  public int getCustID(){
     return custid;
+    System.out.println("this exists");
+  }
+  
+  public String getcustname(){
+    retutrn custname;
   }
   
   public int setCustID(int cust){
@@ -12,6 +17,9 @@ String custname;
   }
   
   pubic void getCust(){
+   
+  public void showCust(){
+  
   
   }
 
