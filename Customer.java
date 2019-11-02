@@ -5,6 +5,7 @@ String custname;
   
   public int getCustID(){
     return custid;
+    System.out.println("this exists");
   }
   
   public String getcustname(){
